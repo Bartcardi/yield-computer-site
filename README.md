@@ -1,2 +1,2 @@
-# yield-computer-site
+# Yield Computer Website
 Repository that hosts our static website
