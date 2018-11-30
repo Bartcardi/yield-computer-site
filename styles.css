@@ -193,16 +193,16 @@ header{
 
 /* header styles */
 #headerIndex{
-  background-image: url(../Images/strawberryField2.jpg);
+  background-image: url(../images/strawberryField2.jpg);
 }
 #headerContact{
-  background-image: url(../Images/contact.jpg);
+  background-image: url(../images/contact.jpg);
 }
 #headerTeam{
-  background-image: url(../Images/berryVariety.jpg);
+  background-image: url(../images/berryVariety.jpg);
 }
 #headerProduct{
-  background-image: url(../Images/blueBerryPlant.jpg);
+  background-image: url(../images/blueBerryPlant.jpg);
 }
 
 footer{
